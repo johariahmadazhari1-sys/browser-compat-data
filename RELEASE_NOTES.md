@@ -1,5 +1,28 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.1.24](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.24)
+
+November 25, 2025
+
+### Removals
+
+- `api.GPUTexture.createView.texture_rgb10a2uint` ([#28525](https://github.com/mdn/browser-compat-data/pull/28525))
+- `api.GPUTexture.createView.usage` ([#28525](https://github.com/mdn/browser-compat-data/pull/28525))
+
+### Additions
+
+- `api.GPUTexture.createView.descriptor_format_parameter_accepts_rgb10a2uint` ([#28525](https://github.com/mdn/browser-compat-data/pull/28525))
+- `api.GPUTexture.createView.descriptor_usage_parameter` ([#28525](https://github.com/mdn/browser-compat-data/pull/28525))
+- `css.at-rules.container.style_queries_range_syntax` ([#28510](https://github.com/mdn/browser-compat-data/pull/28510))
+- `css.types.if.style_queries_range_syntax` ([#28510](https://github.com/mdn/browser-compat-data/pull/28510))
+
+### Statistics
+
+- 2 contributors have changed 4 files with 129 additions and 22 deletions in 2 commits ([`v7.1.23...v7.1.24`](https://github.com/mdn/browser-compat-data/compare/v7.1.23...v7.1.24))
+- 19,069 total features
+- 1,210 total contributors
+- 5,494 total stargazers
+
 ## [v7.1.23](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.23)
 
 November 25, 2025
